@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VoiceSynAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 471}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* VoiceSyn */ = {
+		activeExec = 0;
+		executables = (
+			84A31A4C12191F7700EF50B2 /* VoiceSyn */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* VoiceSynViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 468}}";
+			sepNavSelRange = "{809, 0}";
+			sepNavVisRange = "{0, 767}";
+			sepNavWindowFrame = "{{15, 64}, {968, 814}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* VoiceSynViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 975}}";
+			sepNavSelRange = "{1044, 0}";
+			sepNavVisRange = "{81, 1818}";
+			sepNavWindowFrame = "{{180, 64}, {968, 814}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 84A31A4C12191F7700EF50B2 /* VoiceSyn */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* VoiceSyn */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 84A31A5712191FAF00EF50B2 /* Code sense */;
+		executables = (
+			84A31A4C12191F7700EF50B2 /* VoiceSyn */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					792.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					905,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					865,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303754960;
+			PBXWorkspaceStateSaveDate = 303754960;
+		};
+		perUserProjectItems = {
+			847CD9081219B3BB00FC1D16 /* PBXTextBookmark */ = 847CD9081219B3BB00FC1D16 /* PBXTextBookmark */;
+			84982BC2121AEE590058CA1D /* PBXTextBookmark */ = 84982BC2121AEE590058CA1D /* PBXTextBookmark */;
+			84982BC3121AEE590058CA1D /* PBXTextBookmark */ = 84982BC3121AEE590058CA1D /* PBXTextBookmark */;
+			84982BC4121AEE590058CA1D /* PBXTextBookmark */ = 84982BC4121AEE590058CA1D /* PBXTextBookmark */;
+			84982BC7121AEE590058CA1D /* PBXTextBookmark */ = 84982BC7121AEE590058CA1D /* PBXTextBookmark */;
+			84982BC8121AEE590058CA1D /* PBXTextBookmark */ = 84982BC8121AEE590058CA1D /* PBXTextBookmark */;
+			8498740C121AEF7D0058CA1D /* PBXTextBookmark */ = 8498740C121AEF7D0058CA1D /* PBXTextBookmark */;
+			8498740D121AEF7D0058CA1D /* PBXTextBookmark */ = 8498740D121AEF7D0058CA1D /* PBXTextBookmark */;
+			8498740E121AEF7D0058CA1D /* PBXTextBookmark */ = 8498740E121AEF7D0058CA1D /* PBXTextBookmark */;
+			84A362FA121939E200EF50B2 /* PBXTextBookmark */ = 84A362FA121939E200EF50B2 /* PBXTextBookmark */;
+			84A36303121939FD00EF50B2 /* PlistBookmark */ = 84A36303121939FD00EF50B2 /* PlistBookmark */;
+		};
+		sourceControlManager = 84A31A5612191FAF00EF50B2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 379}}";
+			sepNavSelRange = "{29, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	847CD89B12199D5300FC1D16 /* VSSpeechSynthesizer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 686}}";
+			sepNavSelRange = "{683, 0}";
+			sepNavVisRange = "{0, 723}";
+			sepNavWindowFrame = "{{15, 64}, {968, 814}}";
+		};
+	};
+	847CD9081219B3BB00FC1D16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* VoiceSynViewController.h */;
+		name = "VoiceSynViewController.h: 30";
+		rLen = 0;
+		rLoc = 809;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 0;
+	};
+	84982BC2121AEE590058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 4";
+		rLen = 0;
+		rLoc = 29;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	84982BC3121AEE590058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 847CD89B12199D5300FC1D16 /* VSSpeechSynthesizer.h */;
+		name = "VSSpeechSynthesizer.h: 16";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 29;
+	};
+	84982BC4121AEE590058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceSynViewController.m */;
+		name = "VoiceSynViewController.m: 18";
+		rLen = 39;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 48;
+	};
+	84982BC7121AEE590058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 847CD89B12199D5300FC1D16 /* VSSpeechSynthesizer.h */;
+		name = "VSSpeechSynthesizer.h: 28";
+		rLen = 0;
+		rLoc = 683;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	84982BC8121AEE590058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceSynViewController.m */;
+		name = "VoiceSynViewController.m: 42";
+		rLen = 0;
+		rLoc = 1044;
+		rType = 0;
+		vrLen = 1818;
+		vrLoc = 81;
+	};
+	8498740C121AEF7D0058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceSynViewController.m */;
+		name = "VoiceSynViewController.m: 18";
+		rLen = 39;
+		rLoc = 410;
+		rType = 0;
+		vrLen = 812;
+		vrLoc = 81;
+	};
+	8498740D121AEF7D0058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 847CD89B12199D5300FC1D16 /* VSSpeechSynthesizer.h */;
+		name = "VSSpeechSynthesizer.h: 28";
+		rLen = 0;
+		rLoc = 683;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	8498740E121AEF7D0058CA1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* VoiceSynViewController.m */;
+		name = "VoiceSynViewController.m: 42";
+		rLen = 0;
+		rLoc = 1044;
+		rType = 0;
+		vrLen = 1818;
+		vrLoc = 81;
+	};
+	84A31A4C12191F7700EF50B2 /* VoiceSyn */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VoiceSyn;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84A31A5612191FAF00EF50B2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84A31A5712191FAF00EF50B2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84A362FA121939E200EF50B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* VoiceSynAppDelegate.h */;
+		name = "VoiceSynAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+	84A36303121939FD00EF50B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* VoiceSyn-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/admin/Documents/VoiceSyn/VoiceSyn-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
